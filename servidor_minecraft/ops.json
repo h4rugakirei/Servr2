@@ -12,6 +12,18 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "224a9fe0-c897-35b1-bcbe-9036db7c568c",
+    "name": "idetesid",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "aa2e3652-fa32-39a6-b398-150744bf0023",
+    "name": "IDetesDI",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "e79ef6f2-6626-34aa-8b0e-51d3be92347b",
     "name": "idetestedi",
     "level": 4,
