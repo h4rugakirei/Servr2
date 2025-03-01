@@ -4791,3 +4791,5 @@ java.lang.NullPointerException: Element not found: amount
 [01Mar2025 08:18:27.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3606, l='ServerLevel[world]', x=-306.03, y=80.00, z=792.72] died: Ivy was slain by Zombie
 [01Mar2025 08:18:44.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3903, l='ServerLevel[world]', x=-313.97, y=84.00, z=793.50] died: Ivy was slain by Naga
 [01Mar2025 08:18:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Naga
+[01Mar2025 08:31:24.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [One eyed big skelly]
+[01Mar2025 08:31:24.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [Strike upon thee]

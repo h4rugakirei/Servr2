@@ -4788,6 +4788,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-01 08:17:28 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:basic_spell_turret": {
     "criteria": {
       "has_basic_spell_turret": "2025-03-01 08:14:05 +0000"
