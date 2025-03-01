@@ -4788,5 +4788,17 @@
     },
     "done": true
   },
+  "ars_nouveau:basic_spell_turret": {
+    "criteria": {
+      "has_basic_spell_turret": "2025-03-01 08:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-01 08:13:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

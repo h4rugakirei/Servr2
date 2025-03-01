@@ -10107,3 +10107,23 @@ java.lang.NullPointerException: Element not found: amount
 [01Mar2025 08:04:42.207] [Server thread/INFO] [Jade/]: Syncing config to IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023)
 [01Mar2025 08:06:47.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 08:06:47.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:11:47.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 08:11:47.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:14:05.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [It's a Magic Mod, I Swear!]
+[01Mar2025 08:16:42.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2601, l='ServerLevel[world]', x=-315.14, y=84.00, z=811.21] died: Ivy was slain by The Hunter
+[01Mar2025 08:16:47.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 08:16:47.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:16:56.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2914, l='ServerLevel[world]', x=-318.16, y=84.00, z=807.02] died: Ivy was slain by The Hunter
+[01Mar2025 08:17:28.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Not Today, Thank You]
+[01Mar2025 08:18:04.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Annie the Boring'/3201, l='ServerLevel[world]', x=-387.74, y=71.00, z=725.46] died: Annie the Boring was shot by IDetesDI
+[01Mar2025 08:18:18.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2802, l='ServerLevel[world]', x=-308.50, y=82.63, z=795.48] died: Ivy died
+[01Mar2025 08:18:19.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3273, l='ServerLevel[world]', x=-298.94, y=79.00, z=793.99] died: Ivy hit the ground too hard
+[01Mar2025 08:18:19.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3768, l='ServerLevel[world]', x=-310.50, y=80.00, z=778.41] died: Ivy hit the ground too hard
+[01Mar2025 08:18:19.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2840, l='ServerLevel[world]', x=-318.50, y=86.00, z=796.25] died: Ivy hit the ground too hard
+[01Mar2025 08:18:19.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3433, l='ServerLevel[world]', x=-303.45, y=79.00, z=809.35] died: Ivy was doomed to fall
+[01Mar2025 08:18:19.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/2633, l='ServerLevel[world]', x=-308.39, y=75.00, z=813.46] died: Ivy was doomed to fall
+[01Mar2025 08:18:19.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3081, l='ServerLevel[world]', x=-296.09, y=79.00, z=796.56] died: Ivy was doomed to fall
+[01Mar2025 08:18:27.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3606, l='ServerLevel[world]', x=-306.03, y=80.00, z=792.72] died: Ivy was slain by Zombie
+[01Mar2025 08:18:44.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AnimBlockSummon['Ivy'/3903, l='ServerLevel[world]', x=-313.97, y=84.00, z=793.50] died: Ivy was slain by Naga
+[01Mar2025 08:18:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Naga
+[01Mar2025 08:18:45.936] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (fcd18d43-9ceb-3769-a5df-b51fa37b6d2a) respawned and received items held in storage
